@@ -27,7 +27,7 @@ Compatible-Versions:
 - 0.0.21
 Cartridge-Vendor: wyy
 Categories:
-- service
+#- service
 - php
 - web_framework
 Website: http://www.php.net
